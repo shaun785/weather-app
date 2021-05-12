@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check search input render header 1`] = `"<div class=\\"main-container\\"><input type=\\"text\\" class=\\"search\\" placeholder=\\"search city...\\" value=\\"\\"/></div>"`;
+
+exports[`test search input render header 1`] = `"<div class=\\"main-container\\"><input type=\\"text\\" class=\\"search\\" placeholder=\\"search city...\\" value=\\"\\"><div class=\\"city\\"><h2 class=\\"city-name\\"><span>Sydney</span><sup>Australia</sup></h2><div class=\\"city-temp\\">30<sup>°C</sup></div><div class=\\"info\\"><img class=\\"city-icon\\" src=\\"https://openweathermap.org/img/wn/Cloudy@2x.png\\" alt=\\"Cloudy\\"><p>Cloudy</p></div></div></div>"`;
